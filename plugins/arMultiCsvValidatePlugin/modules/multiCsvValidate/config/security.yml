@@ -1,0 +1,5 @@
+index:
+  credentials: administrator
+
+all:
+  is_secure: true

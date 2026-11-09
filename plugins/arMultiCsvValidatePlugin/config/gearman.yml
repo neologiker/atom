@@ -1,0 +1,4 @@
+all:
+  worker_types:
+    multi_csv_validation:
+      - arMultiValidateCsvJob
